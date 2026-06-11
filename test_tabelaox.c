@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <assert.h>
-#include "function_tabela.c"
+#include "function_tabelaox.c"
 
 int main() {
     assert(caractereValido('X') == 1);
